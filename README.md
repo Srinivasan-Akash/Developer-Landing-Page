@@ -1,17 +1,24 @@
 #  Developer Landing Page [![Justise](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is basically a pretty large website haveing a standard of 5 pages for an imaginary developer. The project is made in HTML/CSS.
-Hope you like my project !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
-
+Hope you like my project !! And Note that I have made it responsive for laptop screens and mobile screens that is from 370px to 480px.
 
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
   - CSS - Cascadeing Spread Sheet
   - CSS Flex Box
 
-## Demo
+## Demo for Laptop screen
 
 https://user-images.githubusercontent.com/108281031/180644138-fb96fc08-bbf6-439f-a903-1b44ed2b4dc9.mp4
+
+
+## Demo for Mobile Screen
+
+
+https://user-images.githubusercontent.com/108281031/185437008-cc4e9856-e18b-479e-9fb7-591d956c7685.mp4
+
+
 
 ## Run Locally
 
@@ -40,6 +47,7 @@ Go to the project directory
 - UI/UX Design
 - Full Blown Website
 - Nav Bar Hovering Effect
+- Mobile Responsive
 
 ## What i have learnt By working on this project
 1. I had improved in `flex` properties
